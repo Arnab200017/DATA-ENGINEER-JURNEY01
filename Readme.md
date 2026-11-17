@@ -1,1 +1,3 @@
-#My Jurney  Today we learn git  writing in master
+My Jurney<br>
+Today we learn git<br>
+writing in master
