@@ -1,3 +1,6 @@
-My Jurney<br>
-Today we learn git<br>
+
+Today we learn git 
+My Jurney
+Today we learn git
 writing in master
+
